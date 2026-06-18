@@ -2,14 +2,16 @@
 
 ### 💻 Senior PHP / Laravel Developer | Backend Engineer | API Specialist
 
-🚀 10+ years experience building scalable backend systems, SaaS platforms & REST APIs  
-🎯 Focused on clean architecture, performance & production-ready code  
+🚀 Specializing in PHP, Laravel, CodeIgniter, SaaS applications & REST APIs  
+🎯 Focused on clean architecture, performance optimization & production-ready backend systems
 
 ---
 
 ## 🌐 Connect with me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:rvndsisodia2@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arvind-sisodia-48504b132)
 
 ---
 
@@ -52,15 +54,7 @@
 
 ## 🔥 GitHub Streak
 
-![Streak Stats](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
-## 🎯 Goals 2026
-- Improve React frontend skills
-- Build SaaS product
-- System design mastery
-- Open source contributions
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arvindxdevtech-hub&theme=tokyonight)
 
 ---
 
