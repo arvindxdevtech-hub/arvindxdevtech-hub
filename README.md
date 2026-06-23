@@ -9,7 +9,10 @@
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=arvindxdevtech-hub&theme=radical&no-frame=true&row=1&column=7" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arvindxdevtech-hub&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" />
+</p>
+
 
 ---
 
