@@ -9,7 +9,7 @@
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=arvindxdevtech-hub&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arvindxdevtech-hub&show_icons=true&theme=tokyonight)
 
 ---
 
