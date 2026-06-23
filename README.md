@@ -9,10 +9,6 @@
 
 ## 🌐 Connect with me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:rvndsisodia2@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arvind-sisodia-48504b132)
-
 <p align="left">
   <a href="mailto:rvndsisodia2@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge" />
