@@ -1,6 +1,6 @@
 # Hi 👋 I'm Arvind Singh Sisodia
 
-### 💻 Senior PHP / Laravel Developer | Backend Engineer | API Specialist
+### 💻 Senior PHP Developer | CodeIgniter Specialist | Laravel Developer | Backend Engineer | REST APIs | AWS 
 
 🚀 Specializing in PHP, Laravel, CodeIgniter, SaaS applications & REST APIs  
 🎯 Focused on clean architecture, performance optimization & production-ready backend systems
