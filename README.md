@@ -10,17 +10,6 @@
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="mailto:rvndsisodia2@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/arvind-sisodia-48504b132">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Arvind_Sisodia-0077B5?style=for-the-badge" />
-  </a>
-</p>
-
-## 🌐 Connect with me
-
-<p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rvndsisodia2@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
