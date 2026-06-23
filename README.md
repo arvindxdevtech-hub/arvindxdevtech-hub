@@ -28,33 +28,62 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-### Backend & Database
+### 💻 Programming & Frameworks
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge\&logo=codeigniter\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![OpenCart](https://img.shields.io/badge/OpenCart-2AC6F3?style=for-the-badge\&logo=opencart\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
-### Frontend
+### 🎨 Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_4-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge\&logo=materialdesign\&logoColor=white)
 
-### CMS & Tools
+### 🛒 CMS & E-Commerce
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge\&logo=elementor\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![OpenCart](https://img.shields.io/badge/OpenCart-2AC6F3?style=for-the-badge\&logo=opencart\&logoColor=white)
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge\&logo=amazons3\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge)
+
+### 💳 Payment Gateway Integration
+
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge\&logo=razorpay\&logoColor=white)
+![ICICI Bank](https://img.shields.io/badge/ICICI_Bank-E41E26?style=for-the-badge)
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### 🤖 AI Tools
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge\&logo=openai\&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge\&logo=githubcopilot\&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge\&logo=slack\&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge\&logo=trello\&logoColor=white)
+
 
 
 ---
