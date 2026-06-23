@@ -7,11 +7,13 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arvindxdevtech-hub&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=arvindxdevtech-hub&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=arvindxdevtech-hub&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arvindxdevtech-hub&layout=compact&theme=tokyonight)
 
 
 ---
