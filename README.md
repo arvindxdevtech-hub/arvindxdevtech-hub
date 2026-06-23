@@ -7,17 +7,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=arvindxdevtech-hub&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=arvindxdevtech-hub&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arvindxdevtech-hub&layout=compact&theme=tokyonight)
-
-
----
-
 ## 🌐 Connect with me
 
 <p align="left">
@@ -95,6 +84,16 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge\&logo=slack\&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge\&logo=trello\&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=arvindxdevtech-hub&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=arvindxdevtech-hub&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arvindxdevtech-hub&layout=compact&theme=tokyonight)
 
 ---
 
