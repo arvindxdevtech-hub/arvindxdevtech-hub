@@ -18,6 +18,19 @@
   </a>
 </p>
 
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rvndsisodia2@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/arvind-sisodia-48504b132" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Arvind_Sisodia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
 ---
 
 ## 🧑 About Me
