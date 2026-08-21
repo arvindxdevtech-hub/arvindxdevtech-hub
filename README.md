@@ -6,6 +6,7 @@
 ⚡ Building scalable backend systems with MySQL, MongoDB, Redis & API integrations  
 ☁️ Hands-on with AWS, Docker, GitHub Actions & CI/CD pipelines  
 🎯 Focused on clean architecture, performance optimization & production-ready applications
+
 ---
 
 ## 🌐 Connect with me
