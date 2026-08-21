@@ -24,12 +24,12 @@
 ---
 ## 🧑 About Me
 
-- 👨‍💻 Senior Software Developer with 10+ years of experience building real-world web applications
-- 🏢 Experienced in enterprise SaaS products, production support, client requirements & technical problem-solving
-- 🚀 I enjoy turning complex business requirements into simple, reliable and scalable solutions
-- 🤝 Comfortable working independently as well as collaborating with development, QA and product teams
-- 📚 Always learning and exploring better ways to build and deliver software
-- ⚡ I believe in clean code, continuous improvement and solving problems that create real business value
+👨‍💻 Senior Software Developer with 10+ years of experience building real-world web applications
+🏢 Experienced in enterprise SaaS products, production support, client requirements & technical problem-solving
+🚀 I enjoy turning complex business requirements into simple, reliable and scalable solutions
+🤝 Comfortable working independently as well as collaborating with development, QA and product teams
+📚 Always learning and exploring better ways to build and deliver software
+⚡ I believe in clean code, continuous improvement and solving problems that create real business value
 ---
 
 ## 🚀 Tech Stack
