@@ -30,6 +30,7 @@
 🤝 Comfortable working independently as well as collaborating with development, QA and product teams
 📚 Always learning and exploring better ways to build and deliver software
 ⚡ I believe in clean code, continuous improvement and solving problems that create real business value
+
 ---
 
 ## 🚀 Tech Stack
